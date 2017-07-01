@@ -1,0 +1,406 @@
+[{
+  "id":"1",
+  "name":"Surf Excel",
+  "categoryId":"11",
+  "price":"200",
+  "quantity":"5",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Surf Excel is Pakistan's leading detergent brand and has been helping millions of consumers keep their laundry clean since 1947."
+},{
+  "id":"2",
+  "name":"Arial",
+  "categoryId":"11",
+  "price":"300",
+  "quantity":"15",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Ariel, offering an outstanding range of washing powders and detergents."
+},{
+  "id":"3",
+  "name":"Brite",
+  "categoryId":"11",
+  "price":"200",
+  "quantity":"12",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":" Brite, now gives you a superior stain removal."
+},{
+  "id":"4",
+  "name":"Tide",
+  "categoryId":"11",
+  "price":"400",
+  "quantity":"20",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Tide is a laundry detergent manufactured by Procter & Gamble, introduced in 1946."
+},{
+  "id":"5",
+  "name":"Comfort",
+  "categoryId":"11",
+  "price":"150",
+  "quantity":"13",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":" Comfort is a superior stain removal washing powder."
+},{
+  "id":"6",
+  "name":"Mortien Spray",
+  "categoryId":"12",
+  "price":"50",
+  "quantity":"3",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Mortein offers pest and insect control products to kill flies, cockroaches, ants, fleas, rats, silverfish and mosquitoes to keep your home bug free year round."
+},{
+  "id":"7",
+  "name":"Kingtox Insect Killer",
+  "categoryId":"12",
+  "price":"100",
+  "quantity":"13",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Get rid of mosquitoes, flies and other flying insects with Kingtox Flight Insect Killer Spray. Its triple action formula knocks down insects very fast."
+},{
+  "id":"8",
+  "name":"Baygon All in One",
+  "categoryId":"12",
+  "price":"120",
+  "quantity":"5",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Baygon Multi Insect Insect Killer is formulated to provide fast killing power against flying and crawling insects found in and around the household."
+},{
+  "id":"9",
+  "name":"Kiwi Polish",
+  "categoryId":"13",
+  "price":"20",
+  "quantity":"35",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"KIWI® Shoe Polish ... KIWI® Shoe Cream cleans, softens, nourishes, shines, protects and restores colour for all types."
+},{
+  "id":"10",
+  "name":"Cherry Bollosm",
+  "categoryId":"13",
+  "price":"23",
+  "quantity":"45",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Traditional Shoe Polish ... The original - and now only - UK manufacturer of shoe care products, Cherry Blossom products are designed to shine, protect and nourish."
+},{
+  "id":"11",
+  "name":"Shan Biryani Masla",
+  "categoryId":"14",
+  "price":"120",
+  "quantity":"8",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"The Shan biryani masala is an optimized mix of ground spices and herbs that you can use to quickly prepare a wonderfully aromatic and flavorful dish of biryani rice."
+},{
+  "id":"12",
+  "name":"Shan Korma Masla",
+  "categoryId":"14",
+  "price":"100",
+  "quantity":"8",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Shan Korma Masala 100gm."
+},{
+  "id":"13",
+  "name":"National Chicken Masla",
+  "categoryId":"14",
+  "price":"100",
+  "quantity":"10",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"National Recipes includes a range of over 48 delicious recipes such as biryanis, curries, barbeque items, kababs and many more."
+},{
+  "id":"14",
+  "name":"Red Chilli",
+  "categoryId":"14",
+  "price":"100",
+  "quantity":"8",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Tez Lal Mirch"
+},{
+  "id":"15",
+  "name":"Pantene Oil Control",
+  "categoryId":"21",
+  "price":"250",
+  "quantity":"18",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Get shiny, healthy looking hair with Pantene's shampoos, conditioners, styling products and hair treatments, designed to meet your hair's individual needs."
+},{
+  "id":"16",
+  "name":"Head & Shoulders",
+  "categoryId":"21",
+  "price":"250",
+  "quantity":"19",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Head & Shoulders is America's #1 dandruff shampoo brand. Hair products range from shampoos, 2-in-1, conditioners to treatments - to get 100% flake free hair."
+},{
+  "id":"17",
+  "name":"Clear All",
+  "categoryId":"21",
+  "price":"200",
+  "quantity":"10",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Clear ALL-in-1, conditioners to treatments - to get 100% free hair."
+},{
+  "id":"18",
+  "name":"Brut",
+  "categoryId":"22",
+  "price":"350",
+  "quantity":"9",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Brut is the brand name for a line of men's grooming and fragrance products first launched in 1964 by Fabergé."
+},{
+  "id":"19",
+  "name":"X-Men",
+  "categoryId":"22",
+  "price":"400",
+  "quantity":"2",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"X-Men Eau De Toilette 50ml Spray, Brand new (fully sealed),Characteristics: G. Bellini X-Men confident with a fruity fragrance pointed character"
+},{
+  "id":"20",
+  "name":"Charlie",
+  "categoryId":"22",
+  "price":"500",
+  "quantity":"3",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Charlie Perfume and body mist."
+},{
+  "id":"21",
+  "name":"Tibet Powder",
+  "categoryId":"23",
+  "price":"50",
+  "quantity":"23",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Tibet talcum powder, it keeps the whole family comfortable everyday and enfulds in fragrant caress all day long."
+},{
+  "id":"22",
+  "name":"Charlie Talc Powder",
+  "categoryId":"23",
+  "price":"70",
+  "quantity":"3",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Charlie powder, it keeps comfortable everyday."
+},{
+  "id":"23",
+  "name":"Lux Velvet Soap",
+  "categoryId":"24",
+  "price":"50",
+  "quantity":"15",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Lux is a beauty soap which has silk protein extract that delivers soft and smooth skin. With natural ingredients like peaches, cream and silk protein extract."
+},{
+  "id":"24",
+  "name":"Capri Soap",
+  "categoryId":"24",
+  "price":"50",
+  "quantity":"10",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Capri's “Natural Skincare and Wellness Range” delivers a lifestyle."
+},{
+  "id":"25",
+  "name":"Lux Herbal Soap",
+  "categoryId":"24",
+  "price":"80",
+  "quantity":"5",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Discover the story of the world's most iconic beauty soap bar, and the glamour of LUX's star-studded legacy."
+},{
+  "id":"26",
+  "name":"K & N fries 100gm",
+  "categoryId":"31",
+  "price":"180",
+  "quantity":"15",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"French fries chips (British English), fries, finger chips (Indian English), or French-fried potatoes are batonnet or allumette-cut deep-fried potatoes"
+},{
+  "id":"27",
+  "name":"Dalda fries 100gm",
+  "categoryId":"31",
+  "price":"200",
+  "quantity":"5",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"French fries chips by Dalda foods."
+},{
+  "id":"28",
+  "name":"K & N Nuggets",
+  "categoryId":"32",
+  "price":"580",
+  "quantity":"3",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Deep-fried Nuggets"
+},{
+  "id":"29",
+  "name":"Man-o-Salwa Paratha",
+  "categoryId":"33",
+  "price":"280",
+  "quantity":"3",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Man-o-Salwa paratha is a flatbread that originated in the Indian subcontinent."
+},{
+  "id":"30",
+  "name":"Dawn Paratha",
+  "categoryId":"33",
+  "price":"300",
+  "quantity":"6",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"paratha prepared with this recipe is delicious but not same as the stuffed one."
+},{
+  "id":"31",
+  "name":"KK Roti",
+  "categoryId":"33",
+  "price":"200",
+  "quantity":"10",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Roti with stuffed maida"
+},{
+  "id":"32",
+  "name":"K & N Paratha",
+  "categoryId":"33",
+  "price":"190",
+  "quantity":"6",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Parathas are thicker and more substantial than chapatis/rotis and this is either because, in the case of a plain paratha."
+},{
+  "id":"33",
+  "name":"Walls Choc Bar",
+  "categoryId":"34",
+  "price":"90",
+  "quantity":"16",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"With its solid choc centre, creamy vanilla ice cream and crunchy coconut choc shell, Choc Bar combines the best of all worlds. Even better – it's made right here."
+},{
+  "id":"34",
+  "name":"Walls King Cone",
+  "categoryId":"34",
+  "price":"100",
+  "quantity":"12",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"With a big chocolate tip! One cone to rule them all. Chocolate and vanilla ice creams in a sugar cone, crowned with chocolate flavored coating and royally."
+},{
+  "id":"35",
+  "name":"Igloo Choco",
+  "categoryId":"34",
+  "price":"50",
+  "quantity":"6",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Choco combines the best of all worlds. Even better "
+},{
+  "id":"36",
+  "name":"Igloo Walnet Icecreamo",
+  "categoryId":"34",
+  "price":"50",
+  "quantity":"6",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"“IGLOO Ice Cream” is among the pioneer ice cream manufacturers of Pakistan. "
+},{
+  "id":"36",
+  "name":"Igloo Mango Cup",
+  "categoryId":"34",
+  "price":"50",
+  "quantity":"12",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"“IGLOO Ice Cream” is among the pioneer ice cream manufacturers of Pakistan."
+},{
+  "id":"37",
+  "name":"Peanut Butter",
+  "categoryId":"41",
+  "price":"20",
+  "quantity":"22",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Biscuit is a term used for a variety of primarily flour-based baked food products."
+},{
+  "id":"38",
+  "name":"Zeera Click",
+  "categoryId":"41",
+  "price":"50",
+  "quantity":"32",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"“Biscuit with zeera on top."
+},{
+  "id":"39",
+  "name":"Butter Puff",
+  "categoryId":"41",
+  "price":"35",
+  "quantity":"12",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"“Light weight salty biscuits."
+},{
+  "id":"40",
+  "name":"Prince Jam Biscuit",
+  "categoryId":"41",
+  "price":"65",
+  "quantity":"2",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"“Yummy delight biscuits with jam in middle."
+},{
+  "id":"41",
+  "name":"Lays Curl",
+  "categoryId":"42",
+  "price":"25",
+  "quantity":"2",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"“Lays makes chips that are uniform in size and shape, which allows them to be stacked and packaged in rigid cardboard."
+},{
+  "id":"42",
+  "name":"Lays Green Masla",
+  "categoryId":"42",
+  "price":"25",
+  "quantity":"12",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"“Lays makes chips that are uniform in size and shape, which allows them to be stacked and packaged in rigid cardboard."
+},{
+  "id":"43",
+  "name":"Kurleez Chips",
+  "categoryId":"42",
+  "price":"23",
+  "quantity":"10",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Kurleez Salt; Soure Cream; Masala Packet; Barbecue; Catchy Ketchup. chips. Kurleez. The very best of crispy crunchy chips that your taste buds want more of."
+},{
+  "id":"43",
+  "name":"Dawn Bread",
+  "categoryId":"43",
+  "price":"33",
+  "quantity":"10",
+  "cartQuantity":"0",
+  "imageUrl":"",
+  "description":"Soft milky bread"
+}]

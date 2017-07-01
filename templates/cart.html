@@ -1,0 +1,72 @@
+ <nav class="navbar">
+        <div class="container-fluid header-bottom-line">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">
+                    <img alt="Brand" height="30" width="35" src="img/icon1.png">
+                </a>
+            </div>
+            <p class="navbar-text navbar-left header-left-text">Ali Estore</p>
+            <a class="navbar-text navbar-right header-right-text" ui-sref="cart">
+                <span class="badge">{{cartCount}}</span>
+                <img alt="Brand" height="30" width="35" src="img/Cart.png">
+            </a>
+        </div>
+    </nav>
+    <ol class="breadcrumb">
+        <li><a ui-sref="home">Home</a></li>
+        <li><a ui-sref="products">Products</a></li>
+        <li class="active">Cart</li>
+    </ol>
+    <div class="container">
+    <div class="card">
+        <div class="sub-container">
+            <h2>Shopping Cart</h2><br>
+            <div ng-if="cart.length>0">
+            <table class="table table-striped table-bordered">
+                <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Product Code</th>
+                    <th>Unit Price</th>
+                    <th>Quantity</th>
+                    <th>Total Price</th>
+                    <th>Action</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="item in cart track by $index">
+                    <td>{{item.name}}</td>
+                    <td>{{item.id}}</td>
+                    <td>{{item.price | currency}}</td>
+                    <td>{{item.cartQuantity}}</td>
+                    <td>{{item.price*item.cartQuantity | currency}}</td>
+                    <td><input class="btn btn-danger" type="button" ng-click="RemoveProductFromCart(item)" value="Delete"/></td>
+                </tr>
+                </tbody>
+            </table><br><br>
+            <table class="table table-striped table-bordered" style="width: 300px;">
+                <tbody>
+                <tr>
+                    <td>Sub Total:</td>
+                    <td>{{subTotal | currency}}</td>
+                </tr>
+                <tr>
+                    <td>Sales Tax (15%):</td>
+                    <td>{{taxAmount | currency}}</td>
+                </tr>
+                <tr>
+                    <td>Total Amount:</td>
+                    <td>{{total | currency}}</td>
+                </tr>
+                </tbody>
+            </table>
+                <input class="btn btn-success" type="button" ng-click="CheckOut()" value="Proceed to Checkout" />
+                <input class="btn btn-warning" type="button" ng-click="ClearCart()" value="Clear Cart" />
+            </div>
+            <br>
+            <h5 ng-if="cart.length==0">No items found in the cart !</h5>
+        </div>
+    </div>
+        <br>
+        <br>
+</div>

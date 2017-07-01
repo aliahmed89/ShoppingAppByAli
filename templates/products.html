@@ -1,0 +1,62 @@
+<div>
+    <nav class="navbar">
+        <div class="container-fluid header-bottom-line">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">
+                    <img alt="Brand" height="30" width="35" src="img/icon1.png">
+                </a>
+            </div>
+            <p class="navbar-text navbar-left header-left-text">Ali Estore</p>
+            <a class="navbar-text navbar-right header-right-text" ui-sref="cart">
+                <span class="badge">{{cartCount}}</span>
+                <img alt="Brand" height="30" width="35" src="img/Cart.png">
+            </a>
+        </div>
+    </nav>
+    <div id="menu">
+        <div id="sidebar-menu">
+            <h4 class="categories-text"><u>Categories</u></h4>
+                <treecontrol class="tree-classic"
+                             tree-model="categories"
+                             options="treeOptions"
+                             on-selection="showSelected(node)"
+                             selected-node="node1">
+                    {{node.name}}
+                </treecontrol>
+        </div>
+    </div>
+
+    <div class="container" style="margin-left: 200px">
+        <ol class="breadcrumb">
+            <li><a ui-sref="home">Home</a></li>
+            <li class="active">Products</li>
+            <li><a ui-sref="cart">Cart</a></li>
+        </ol>
+        <p class="note">* Please click on categories list showing on the left side to browse products.</p>
+        <h2>{{categoryName}}</h2>
+
+        <div class="row" ng-show="showItem">
+            <div class="col-xs-12 col-md-12 col-sm-12 col-lg-12">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
+                    <input type="text" ng-model="searchText" class="form-control" placeholder="Type product name to search..">
+                </div>
+            </div>
+        </div>
+
+
+        <div style="margin-top: 10px">
+                <ul class="list-group text-center">
+                    <li class="col-xs-6 col-md-3 col-sm-3 col-lg-3 list-group-item" ng-repeat="product in products | filter:searchText" style="min-height: 300px;">
+                            <img width="100" height="100" src="img/productImg.png" />
+                               <div><b>{{product.name}}</b></div>
+                               <div><span class="description-text">{{product.description | limitTo:50}}..</span></div>
+                                <h3>{{product.price | currency}}</h3>
+                        <div><b>Available: {{product.quantity}}</b></div>
+                        <input class="btn btn-success" type="button" ng-click="AddProductToCart(product)" ng-if="product.quantity>0" value="Add to Cart" />
+                    </li>
+                </ul>
+
+            </div>
+</div>
+</div>

@@ -1,0 +1,101 @@
+[{
+  "id":"1",
+  "name":"Household Items",
+  "children":[{
+    "id":"11",
+    "name":"Detergents",
+    "items":"5"
+    },
+    {
+      "id":"12",
+      "name":"Insect Killers",
+      "items":"10"
+    },{
+      "id":"13",
+      "name":"Shoe Care",
+      "items":"3"
+    },{
+      "id":"14",
+      "name":"Spices & Masla",
+      "items":"15"
+    }]
+},
+  {
+    "id":"2",
+    "name":"Beauty & Care",
+    "children":[
+      {
+        "id":"21",
+        "name": "Shampoos",
+        "stock": "8"
+      },
+      {
+        "id":"22",
+        "name": "Perfumes",
+        "stock": "15"
+      },
+      {
+        "id":"23",
+        "name": "Powders",
+        "stock": "18"
+      },
+      {
+        "id":"24",
+        "name": "Soaps",
+        "stock": "35"
+      }
+    ]
+   },
+     {
+       "id":"3",
+      "name":"Frozen Items",
+      "children":[
+      {
+        "id":"31",
+        "name": "French Fries",
+        "stock": "8"
+      },
+      {
+        "id":"32",
+        "name": "Nuggets",
+        "stock": "19"
+      },
+      {
+        "id":"33",
+        "name": "Paratha",
+        "stock": "5"
+      },
+      {
+        "id":"34",
+        "name": "Ice Cream",
+        "stock": "8"
+      }
+    ]
+  },
+  {
+    "id":"4",
+    "name":"Bakery",
+    "children":[
+      {
+        "id":"41",
+        "name": "Biscuits",
+        "stock": "8"
+      },
+      {
+        "id":"42",
+        "name": "Chips",
+        "stock": "9"
+      },
+      {
+        "id":"43",
+        "name": "Bread",
+        "stock": "5"
+      }
+    ]
+  }
+
+
+
+
+
+]
